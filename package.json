@@ -1,0 +1,25 @@
+{
+  "name": "node-aws-module",
+  "version": "1.0.0",
+  "description": "This is the node aws codes written while exploring amazon web service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarthikGangadhar/node-aws-module.git"
+  },
+  "keywords": [
+    "aws",
+    "s3bucket",
+    "node",
+    "tutorial"
+  ],
+  "author": "kgangadhar <karthikg1643@gmail.com> (https://github.com/karthikgangadhar)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarthikGangadhar/node-aws-module/issues"
+  },
+  "homepage": "https://github.com/KarthikGangadhar/node-aws-module#readme"
+}
